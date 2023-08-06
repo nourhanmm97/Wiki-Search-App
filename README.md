@@ -1,7 +1,7 @@
-Wikipedia Search App
+<strong>Wikipedia Search App</strong><br>
 This is a React application that allows users to search for articles on Wikipedia using the Wikipedia API. Users can enter a search term in the input field, and the application will display a list of articles that match the search term. Each article in the list includes the title and a brief description.
 
-Features
+<strong>Features</strong><br>
 Search for articles on Wikipedia using the search input
 Display a list of articles that match the search term
 Show the title and description of each article
@@ -13,7 +13,7 @@ React Bootstrap: UI framework for responsive design and pre-styled components
 Axios: HTTP client for making API requests
 Wikipedia API: External API for retrieving article data from Wikipedia
 
-Usage
+<strong>Usage</strong><br>
 Enter a search term in the input field.
 As you type, the application will fetch and display a list of articles that match the search term.
 Click on an article to view its full content on Wikipedia.
